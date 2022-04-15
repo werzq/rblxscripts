@@ -2,8 +2,6 @@
 <p>
     <img width="200" src="https://github.com/iamstrawberry/rblxscripts/blob/main/app%20-%20Copy.png">
 </p>
-
-[YouTube](https://youtube.com) 
 </div>
 
 
